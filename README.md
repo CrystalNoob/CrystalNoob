@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-PS I usually sign commits I made with my SSh key, you can see the [public key](https://github.com/CrystalNoob.keys) and verify it yourself.
+- 🔭 I’m currently working on my homework
+- 🌱 I’m currently learning at Institut Teknologi Bandung
+
+
+
+PS I usually sign commits I made with my SSH key, you can see the [public key](https://github.com/CrystalNoob.keys) and verify it yourself.
