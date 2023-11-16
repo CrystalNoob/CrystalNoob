@@ -1,4 +1,4 @@
-### Hi there 👋, Welcome!
+### Hola, Welcome!
 
 <!--
 **CrystalNoob/CrystalNoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 
 
 
-PS I usually sign commits I made with my SSH key, you can see the [public key](https://github.com/CrystalNoob.keys) and verify it yourself.
+[GPG pubkey](https://github.com/CrystalNoob.gpg)<br>
+[ssh pubkey](https://github.com/CrystalNoob.keys)
